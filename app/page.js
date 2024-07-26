@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
       <div>
-        <h1>Products</h1>
+        <h1>Store </h1>
         <Link href="/products">Check Products</Link>
       </div>
     </main>
